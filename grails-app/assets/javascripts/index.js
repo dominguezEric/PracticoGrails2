@@ -1,0 +1,1 @@
+$( "select" ).attr('required', 'true')
